@@ -6,7 +6,7 @@
 <html>
 <head>
 	<meta charset="ISO-8859-1">
-	<title>Liste des villes</title>
+	<title>Liste des villes test</title>
 	<style>
 		table{border-collapse: collapse}
     	td{ border: 2px solid black}
